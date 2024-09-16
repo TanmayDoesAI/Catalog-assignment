@@ -1,0 +1,2 @@
+Possible incorrect roots (residuals greater than threshold):
+Point x=7, y=28859585857715, residual=66173142841.82422

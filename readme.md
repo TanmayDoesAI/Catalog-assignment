@@ -50,3 +50,6 @@ To test the code with a new test case:
    ```bash
    Constant term (c): 28735619723864
    ```
+
+
+## Task 2: for task 2 run task2.js using the same input1.json to get output in output.txt
