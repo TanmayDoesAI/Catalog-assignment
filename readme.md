@@ -53,3 +53,12 @@ To test the code with a new test case:
 
 
 ## Task 2: for task 2 run task2.js using the same input1.json to get output in output.txt
+- you may need math.js to install it use the following command:
+```
+npm install mathjs
+```
+then run
+```bash
+node task2.js
+```
+and you would see the output in the terminal and also in the output.txt file
